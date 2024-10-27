@@ -1,0 +1,41 @@
+{
+    "quiz": [
+      {
+        "id": 1,
+        "text": "What is the capital city of India?",
+        "choices": ["Mumbai", "Kolkata", "New Delhi" , "Bangalore"],
+        "multiple": false,
+        "correct" : "New Delhi"
+      },
+      {
+        "id": 2,
+        "text": "What is the national animal of India?",
+        "choices": ["Elephant", "Lion", "Tiger" , "Peacock"],
+        "multiple": false,
+        "correct" : "Tiger"
+      },
+      {
+        "id": 3,
+        "text": "Which festival is known as the Festival of Lights in India?",
+        "choices": ["Diwali", "Holi", "Eid" , "Christmas"],
+        "multiple": false,
+        "correct" : "Diwali"
+      },
+      {
+        "id": 4,
+        "text": "What is the national sports of India?",
+        "choices": ["Hockey", "Cricket", "Golf" , "Football"],
+        "multiple": false,
+        "correct" : "Hockey"
+      },
+      {
+        "id": 5,
+        "text": "What is the currency of India?",
+        "choices": ["Dollars", "Pounds", "Euros" , "Rupee"],
+        "multiple": false,
+        "correct" : "Rupee"
+      }
+
+    ]
+  }
+  
