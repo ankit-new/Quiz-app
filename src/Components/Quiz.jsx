@@ -12,7 +12,7 @@ const Quiz = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/quiz");
+        const response = await axios.get("https://quiz-h1nh.onrender.com/quiz");
         setQuizData(response.data);
         const foundQuiz = response.data.find((quiz) => quiz.id === parseInt(quizId));
         setCurrentQuestion(foundQuiz || response.data[0]);
