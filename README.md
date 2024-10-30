@@ -5,7 +5,7 @@
 2- Npm install
 3- Npm run dev
 
-to run api services
-run ( json-server --watch db.json --port 5000 )
+ api services for quiz questions from api
+run -  json-server --watch db.json --port 5000 
 
 
